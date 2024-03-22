@@ -22,7 +22,7 @@ def add():
 
 @app.route("/input")
 def input():
-    data = request.args.get('x')
+    data = request.args.get('x')          #http://localhost:5000/input?x=<provide desired data>
     return "this is my first url input {}".format(data)
 
 
