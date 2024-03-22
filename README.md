@@ -4,5 +4,5 @@ Simply use the command pip install -r requirements. txt in your terminal. This w
 # pip install -r requirements.txt
 
 open a command line and type the word python followed by the path to your script file like this: python first_script.py
-# python app.py  (it will run the application)
+# python3 app.py  (it will run the application)
 
